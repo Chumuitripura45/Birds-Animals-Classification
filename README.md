@@ -19,7 +19,7 @@ A unique Web app that shows different Birds 269- Species Classification , Domest
 3. Birds Scientific Name
 4. Animals Scientific Name
 
-# Demo Vedio
+# Demo Video
   
    https://user-images.githubusercontent.com/76691957/175107602-6314c6a7-cae8-4884-81a1-6f83139fe4fd.mp4
 

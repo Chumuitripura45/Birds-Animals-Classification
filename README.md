@@ -1,5 +1,5 @@
 # Birds-Animals-Classification
-A unique Web app that shows different Birds 269- Species Classification , Domestic Animals Classification And Cats OR Dogs Identification You can choose the options from the left. It has a sidebar with Bird Species Classification, Domestio Animals Classification ,Some Birds and Animals Scientific Name.
+A unique Web app that shows different Birds 269- Species Classification And Domestic Animals Classification .You can choose the options from the left. It has a sidebar with Bird Species Classification, Domestio Animals Classification ,Some Birds and Animals Scientific Name.
 
 # Libraries required to be installed using pip Command:
 1. cv2
